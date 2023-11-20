@@ -25,11 +25,7 @@
 ### 2.	Move the y-axis slider and observe the movement of the y-axis assembly.
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
-## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
 ![Screenshot 2023-11-20 040503](https://github.com/arshitha7/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/144979143/89320c20-ec81-448a-8c76-d39206e45e39)
