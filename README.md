@@ -36,8 +36,8 @@
 ![image](https://github.com/arshitha7/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/144979143/3bf9e461-32ff-4eea-a73b-41bfe7d06e95)
 ![image](https://github.com/arshitha7/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/144979143/0fcd8cd5-139c-4cf9-813d-87ac978154cb)
 
-### Name:
-### Register Number:
+### Name: Arshitha MS
+### Register Number: 23014017
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
