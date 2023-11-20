@@ -20,10 +20,18 @@
 ### 5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
 ### 6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
+
+
+
+
+
 ## Playing with Axes
 ### 1.	Move the r-axis slider and observe the movement of the r-axis assembly.
 ### 2.	Move the y-axis slider and observe the movement of the y-axis assembly.
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
+
+
+
 
 
 ## Output:
